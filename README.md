@@ -1,5 +1,5 @@
 <h1 align="center"> Exploring Marine Protected Areas </h1>
-<h3 align="center"> EDS220_Fall2022 Final Project </h3>
+### EDS220_Fall2022 Final Project
 
 <img align="right" src="santa_barbara_coastline.jpg" width="300">
 
