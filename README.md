@@ -26,10 +26,14 @@ The raw data read into the file is housed under a shared folder in a server call
 - Folium
 - Matplotlib
 - Scipy
+- Numpy
 - Datetime
 - OS
 - GeoJson
 - CSV
+- Json
+- Shaely
+- Rtree
 
 # Authors:
 - Colleen McCamy, Master of Environmental Data Science Student, (colleenmccamy@bren.ucsb.edu)
