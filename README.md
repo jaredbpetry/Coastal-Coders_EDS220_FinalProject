@@ -15,6 +15,8 @@ The purpose of this repository is to provide a walk-through of how to utilize NO
 - References
 
 # Data Citation:
+Department of Commerce, National Oceanic and Atmospheric, Administration, Office Of National Marine Sanctuaries (, National Marine Protected, and Areas Center. 2020. “NOAA’s Marine Protected Areas Inventory - 2020 - IUCN MPAs.” https://marineprotectedareas.noaa.gov/dataanalysis/mpainventory/.
+
 The responsible party for the NOAA's Marine Protected Areas Inventory - 2020 - IUCN MPAs includes the Department of Commerce (DOC), National Oceanic and Atmospheric, Administration (NOAA), Office Of National Marine Sanctuaries (ONMS), and National Marine Protected Areas Center (MPAC).
 
 # Folder Structures:
